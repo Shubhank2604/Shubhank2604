@@ -4,7 +4,7 @@ MS CS @ University of Florida | National Institute of Technology, Durgapur
 </h3>
 
 <p align="center">
-Former Software Engineer @ Wells Fargo • Incoming SWE Intern @ MathWorks (Summer 2026)
+Former Software Engineer @ Wells Fargo
 </p>
 
 <p align="center">
