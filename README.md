@@ -22,7 +22,7 @@ Former Software Engineer @ Wells Fargo
 - 💼 3 Years Software Engineer @ Wells Fargo – Asset-Backed Securities
 - 🛠 Backend & Distributed Systems Engineer working with **Java, Spring Boot, Kafka, Redis, MySQL**  
 - 🌱 Built real-world systems that are scalable having low-latency  
-- 🎯 Targeting Software Engineering Intern roles in Backend & Infrastructure  
+- 🎯 Targeting Software Engineering FTE roles in Backend & Infrastructure  
 
 ---
 
