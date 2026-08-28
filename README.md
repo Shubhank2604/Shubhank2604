@@ -1,59 +1,47 @@
-<h1 align="center">Hi 👋, I'm Shubhank Chandak</h1>
-<h3 align="center">
-MS CS @ University of Florida | National Institute of Technology, Durgapur
-</h3>
+# Shubhank Chandak
 
-<p align="center">
-Former Software Engineer @ Wells Fargo
-</p>
+**Backend and ML Systems Engineer** building reliable, high-performance software across distributed systems, developer infrastructure, and applied AI.
 
-<p align="center">
-<a href="https://linkedin.com/in/shubhank2604"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
-<a href="mailto:shubhankchandak@gmail.com"><img src="https://img.shields.io/badge/Email-red"></a>
-<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-green"></a>
-</p>
+MS in Computer Science at the University of Florida · Former Software Engineer at Wells Fargo · Software Engineering Intern on MATLAB Compiler at MathWorks
 
----
+[LinkedIn](https://www.linkedin.com/in/shubhank2604/) · [Portfolio](https://portfolio-chi-lemon-56.vercel.app) · [Email](mailto:shubhankchandak@gmail.com)
 
-## 🚀 About Me
+## Experience
 
-- 🎓 MS Computer Science @ University of Florida (Expected May 2027)  
-- 🎓 B.Tech @ National Institute of Technology, Durgapur  
-- 💼 3 Years Software Engineer @ Wells Fargo – Asset-Backed Securities
-- 🛠 Backend & Distributed Systems Engineer working with **Java, Spring Boot, Kafka, Redis, MySQL**  
-- 🌱 Built real-world systems that are scalable having low-latency  
-- 🎯 Targeting Software Engineering FTE roles in Backend & Infrastructure  
+- **MathWorks — Software Engineering Intern, MATLAB Compiler**  
+  Worked in a production C++ and MATLAB codebase on compiler infrastructure, extensible serialization, software quality, and architectural tradeoffs.
 
----
+- **Wells Fargo — Software Engineer, Asset-Backed Securities**  
+  Spent three years building backend and distributed systems for mortgage-backed-securities analytics using Java, Spring Boot, Kafka, Redis, SQL, and C++ risk engines.
 
-## ⭐ Featured Projects
+- **University of Florida — MS Computer Science, expected May 2027**  
+  Focused on distributed systems, machine learning, software engineering, and systems design.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **UniSwap – Campus Marketplace** | Secure student marketplace with auth, listings & chat | Go, PostgreSQL, React |
-| **Splitwise Clone** | Expense sharing with settlement & transaction logic | Java, Spring Boot, MySQL |
-| **Parking Management System** | Real-time parking system with caching & queueing | Spring Boot, Redis, Kafka |
-| **TextToCode** | Proof-of-concept for Traders Desk at Wells Fargo | Python, Langchain, RAG |
-| **SAAR Dashboard Revamp (UF)** | Student Life analytics dashboards | WordPress, Tableau, Power BI |
+## Selected Work
 
-👉 Check pinned repositories for full implementations.
+| Project | What I built | Stack |
+| --- | --- | --- |
+| [**CafeteriaBuddy**](https://github.com/Shubhank2604/CafeteriaBuddy) | Converts cafeteria menu images into structured menus and produces personalized recommendations. Deterministic allergy and hard-avoid rules remain authoritative over LLM-generated suggestions. | Next.js, TypeScript, Python, FastAPI, Azure Document Intelligence, Gemini |
+| [**FinSight AI**](https://github.com/Shubhank2604/FinSight-AI) | Local-first financial analysis system with query routing, hybrid retrieval, structured LLM responses, financial tools, citations, and abstention behavior. | Python, Gemini, Qdrant, BM25, Streamlit |
+| [**UniSwap**](https://github.com/samarth1412/UniSwap-Campus-Marketplace-for-Students) | Contributed Go backend features including paginated search, filters, wishlists, user listings, and secured image-upload flows. [Merged contribution →](https://github.com/samarth1412/UniSwap-Campus-Marketplace-for-Students/pull/55) | Go, PostgreSQL, JWT, REST |
+| [**Parking Management System**](https://github.com/Shubhank2604/Park_) | Modular Spring Boot backend for parking allocation, billing, authentication, Redis-backed availability, and Kafka events. | Java, Spring Boot, MySQL, Redis, Kafka |
+| [**Portfolio**](https://portfolio-chi-lemon-56.vercel.app) | Personal site for engineering projects, experience, and technical writing. | Next.js, TypeScript, MDX |
 
----
+## Current Focus
 
-## 🛠 Tech Stack
+- Reliable AI systems: retrieval, evaluation, grounding, and safe fallbacks
+- LLM inference: serving performance, observability, and quantization tradeoffs
+- Backend infrastructure: distributed systems, caching, messaging, and developer tooling
+- C++ systems and compiler infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,go,cpp,matlab,python,js,react,mysql,postgres,redis,kafka,docker,git,linux" />
-</p>
+## Recognition
 
----
+- **3rd overall at MathWorks HackDay** among 39 teams and 90+ participants for MealWorks, an AI-powered food-discovery experience.
 
-## ⚡ Fun Facts
+## Technical Toolkit
 
-- 🏋️‍♂️ Gym enthusiast tracking macros & strength  
-- 🎨 Love travelling the world exploring horizons 
-- 💡 Love building production-ready backend systems & scalable architectures  
+**Languages:** Java, C++, Python, Go, TypeScript, JavaScript, SQL, MATLAB  
+**Backend and infrastructure:** Spring Boot, REST, gRPC, Kafka, Redis, MySQL, PostgreSQL, Docker, Kubernetes, Linux  
+**ML and AI:** PyTorch, embeddings, RAG, vector databases, LLM evaluation, Gemini
 
----
-
-⭐ If you like my work, consider following or connecting on LinkedIn!
+I am currently pursuing full-time software engineering and ML systems opportunities for 2027.
