@@ -19,13 +19,13 @@ MS in Computer Science at the University of Florida · Former Software Engineer 
 
 ## Selected Work
 
-| Project | What I built | Stack |
+| Project | Engineering focus | Evidence |
 | --- | --- | --- |
-| [**CafeteriaBuddy**](https://github.com/Shubhank2604/CafeteriaBuddy) | Converts cafeteria menu images into structured menus and produces personalized recommendations. Deterministic allergy and hard-avoid rules remain authoritative over LLM-generated suggestions. | Next.js, TypeScript, Python, FastAPI, Azure Document Intelligence, Gemini |
-| [**FinSight AI**](https://github.com/Shubhank2604/FinSight-AI) | Local-first financial analysis system with query routing, hybrid retrieval, structured LLM responses, financial tools, citations, and abstention behavior. | Python, Gemini, Qdrant, BM25, Streamlit |
-| [**UniSwap**](https://github.com/samarth1412/UniSwap-Campus-Marketplace-for-Students) | Contributed Go backend features including paginated search, filters, wishlists, user listings, and secured image-upload flows. [Merged contribution →](https://github.com/samarth1412/UniSwap-Campus-Marketplace-for-Students/pull/55) | Go, PostgreSQL, JWT, REST |
-| [**Parking Management System**](https://github.com/Shubhank2604/Park_) | Modular Spring Boot backend for parking allocation, billing, authentication, Redis-backed availability, and Kafka events. | Java, Spring Boot, MySQL, Redis, Kafka |
-| [**Portfolio**](https://portfolio-chi-lemon-56.vercel.app) | Personal site for engineering projects, experience, and technical writing. | Next.js, TypeScript, MDX |
+| [**CafeteriaBuddy**](https://github.com/Shubhank2604/CafeteriaBuddy) | Menu-image ingestion and personalized recommendations with deterministic allergy rules ahead of optional LLM polishing. | Credential-free demo; Python and TypeScript CI |
+| [**FinSight AI**](https://github.com/Shubhank2604/FinSight-AI) | Router-driven financial RAG with Qdrant, BM25, reciprocal-rank fusion, structured responses, and citation checks. | Versioned 18-query benchmark; Recall@3, MRR, and nDCG |
+| [**Splitwise API**](https://github.com/Shubhank2604/Splitwise) | Transactional expense ledger with exact decimal accounting, authenticated ownership, debt netting, and concurrency control. | Flyway migrations; integration/security tests; CI |
+| [**Parking Management System**](https://github.com/Shubhank2604/Park_) | Spring Boot parking allocation with MySQL as source of truth and Redis/Kafka post-commit updates. | Pessimistic slot locking; repository test; CI |
+| [**Engineering Portfolio**](https://portfolio-chi-lemon-56.vercel.app) | Case studies and technical writing covering backend systems, compiler infrastructure, and evaluated AI work. | Next.js/TypeScript build checks and route smoke tests |
 
 ## Current Focus
 
