@@ -2,7 +2,7 @@
 
 **Backend and ML Systems Engineer** building reliable, high-performance software across distributed systems, developer infrastructure, and applied AI.
 
-MS in Computer Science at the University of Florida · Former Software Engineer at Wells Fargo · Software Engineering Intern on MATLAB Compiler at MathWorks
+MS in Computer Science at the University of Florida · Former Software Engineer at MathWorks, Wells Fargo
 
 [LinkedIn](https://www.linkedin.com/in/shubhank2604/) · [Portfolio](https://portfolio-chi-lemon-56.vercel.app) · [Email](mailto:shubhankchandak@gmail.com)
 
